@@ -10,8 +10,8 @@ public class MusicLibraryClient {
         Album a6 = new Album("Second", "two Guy", 9, 40);
         Album a7 = new Album("z", "a", 5, 30);
         Album a8 = new Album("c", "h", 12, 37.3);
-        Album a9 = new Album("no", "u", 1, 69);
-        Album a10 = new Album("u suck", "zach", 983, 0.1);
+        Album a9 = new Album("no", "u", 1, 1337);
+        Album a10 = new Album("u r bad", "zach", 983, 0.1);
 
         myLibrary.add(a1);
         myLibrary.add(a2);

@@ -2,118 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ac14b21-d3cd-4abc-8074-f6485044011b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/unit-6/Album.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/unit-6/FrequencyChart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/unit-6/MusicLibrary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/unit-6/MusicLibraryClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicLibraryClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyArray2DExplorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Admin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyArrayListExplorer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FrequencyChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrequencyChart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MusicLibraryClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MusicLibraryClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyArray2DExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyArray2DExplorer.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1014900926">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="13" />
-          <entry key="project.open.time.21" value="2" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="14" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="7575" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="7575" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FrequencyChart.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MusicLibraryClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MyArray2DExplorer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Album.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-              <folding>
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MusicLibrary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1819">
-              <caret line="109" column="57" selection-start-line="109" selection-start-column="57" selection-end-line="109" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,102 +24,78 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/swapEnds.java" />
-        <option value="$PROJECT_DIR$/src/has12.java" />
-        <option value="$PROJECT_DIR$/src/FrequencyChart.java" />
-        <option value="$PROJECT_DIR$/src/Album.java" />
-        <option value="$PROJECT_DIR$/src/MusicLibraryClient.java" />
-        <option value="$PROJECT_DIR$/src/MusicLibrary.java" />
-        <option value="$PROJECT_DIR$/src/MyArray2DExplorer.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="500" />
-    <option name="y" value="32" />
-    <option name="width" value="704" />
-    <option name="height" value="745" />
-  </component>
+  <component name="ProjectId" id="1Xo0aGrlY3sL2R3pBRvxYJgyLIS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="unit-6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unit-6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unit-6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unit-6" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581614973016" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581615276422" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.MusicLibraryClient">
-    <configuration name="FrequencyChart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FrequencyChart" />
+  <component name="RunManager" selected="Application.WarGame">
+    <configuration name="ColorChooser (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pixLab.classes.ColorChooser" />
+      <module name="unit-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pixLab.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColorChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ColorChooser" />
       <module name="unit-6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicLibraryClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MusicLibraryClient" />
+    <configuration name="MyArray2DExplorer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyArray2DExplorer" />
       <module name="unit-6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swapEnds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swapEnds" />
+    <configuration name="MyArrayListExplorer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyArrayListExplorer" />
+      <module name="unit-6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WarGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WarGame" />
       <module name="unit-6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FrequencyChart" />
-      <item itemvalue="Application.swapEnds" />
-      <item itemvalue="Application.MusicLibraryClient" />
+      <item itemvalue="Application.ColorChooser (1)" />
+      <item itemvalue="Application.ColorChooser" />
+      <item itemvalue="Application.MyArray2DExplorer" />
+      <item itemvalue="Application.MyArrayListExplorer" />
+      <item itemvalue="Application.WarGame" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MusicLibraryClient" />
-        <item itemvalue="Application.swapEnds" />
-        <item itemvalue="Application.FrequencyChart" />
+        <item itemvalue="Application.WarGame" />
+        <item itemvalue="Application.MyArrayListExplorer" />
+        <item itemvalue="Application.ColorChooser (1)" />
+        <item itemvalue="Application.ColorChooser" />
+        <item itemvalue="Application.MyArray2DExplorer" />
       </list>
     </recent_temporary>
   </component>
@@ -237,106 +112,47 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29434448" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32884097" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32884097" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32884097" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/swapEnds.java" />
-    <entry file="file://$PROJECT_DIR$/src/has12.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/lang/Appendable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="101" column="34" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="57" column="19" lean-forward="true" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="1161" column="28" lean-forward="true" selection-start-line="1161" selection-start-column="28" selection-end-line="1161" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Album.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MusicLibrary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1819">
-          <caret line="109" column="57" selection-start-line="109" selection-start-column="57" selection-end-line="109" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MusicLibraryClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FrequencyChart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyArray2DExplorer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="605" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1582909074135">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1582909074135" />
+    <state x="80" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582907859890">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="80" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1582907859890" />
+    <state x="621" y="185" key="FileChooserDialogImpl" timestamp="1582217584634">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="621" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582217584634" />
+    <state width="1557" height="150" key="GridCell.Tab.0.bottom" timestamp="1582910749701">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="150" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582910749701" />
+    <state width="1557" height="150" key="GridCell.Tab.0.center" timestamp="1582910749701">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="150" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1582910749701" />
+    <state width="1557" height="150" key="GridCell.Tab.0.left" timestamp="1582910749701">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="150" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1582910749701" />
+    <state width="1557" height="150" key="GridCell.Tab.0.right" timestamp="1582910749701">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="150" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1582910749701" />
+    <state x="576" y="135" width="998" height="725" key="SettingsEditor" timestamp="1583169198666">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="576" y="135" width="998" height="725" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583169198666" />
+    <state x="488" y="276" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1582219925539">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="488" y="276" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1600.860@0.0.1600.860" timestamp="1582219925539" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1582824508379">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1582824508379" />
   </component>
   <component name="masterDetails">
     <states>
